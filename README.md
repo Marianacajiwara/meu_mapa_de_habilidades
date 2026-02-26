@@ -54,14 +54,7 @@ Próximos passos práticos
 Sim — há mercado e pessoas dispostas a pagar por peças artesanais quando elas oferecem valor percebido: originalidade, qualidade, história ou utilidade. O setor de artesanato no Brasil é grande e em crescimento, com demanda por produtos diferenciados e feitos à mão.
 
 Tabela de critérios que determinam se alguém pagaria pela sua peça
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-
-
+<img width="905" height="555" alt="image" src="https://github.com/user-attachments/assets/fab8e808-e73e-4728-afd0-d9c137acb76e" />
 
 Quem costuma pagar por artesanato
 - Consumidores que buscam exclusividade e produtos com história (presentes, decoração autoral).
@@ -107,14 +100,7 @@ Existe demanda por essa habilidade?
 Sim — existe demanda por habilidades de produção de produtos artesanais (decoração, acessórios, roupas). O setor no Brasil é grande, em crescimento e atrai consumidores que valorizam exclusividade, sustentabilidade e produção local.
 
 Critérios principais da demanda
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-
-
+<img width="912" height="710" alt="image" src="https://github.com/user-attachments/assets/a0b82b64-62fb-4d1f-9eb2-b93ba375452e" />
 
 Evidências e tendências relevantes
 - Mercado em escala: relatórios estimam que o mercado brasileiro de artesanato atingiu cerca de USD 16,7 bilhões em 2025 e projeta crescimento contínuo até 2034.
@@ -154,15 +140,7 @@ Resumo direto
 Sim — você pode oferecer suas criações tanto como produto quanto como serviço. Cada formato exige posicionamento, precificação, operação e comunicação diferentes; ambos podem coexistir no mesmo negócio e ampliar sua receita.
 
 Comparação rápida Produto versus Serviço
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-
-
+<img width="937" height="578" alt="image" src="https://github.com/user-attachments/assets/e0515ba4-2f37-4407-9f11-a7da142ad227" />
 
 Quando escolher Produto
 - Se você quer vender em volume: coleções, séries limitadas e itens prontos para pronta‑entrega.
@@ -206,14 +184,7 @@ Resumo direto
 Sim — habilidades para criar produtos artesanais resolvem problemas reais e recorrentes: oferecem soluções de personalização, identidade estética, presentes significativos, alternativas sustentáveis e geração de renda local.
 
 Problemas comuns que o artesanato resolve
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-
-
+<img width="907" height="646" alt="image" src="https://github.com/user-attachments/assets/e155527b-7a04-4f18-9c90-b51939388915" />
 
 Valor percebido para o cliente
 - Exclusividade: consumidores pagam por algo que não existe em massa.
@@ -251,17 +222,7 @@ Plano de ação rápido (7 dias)
 
   Ideias de serviços pagáveis usando organização
 Abaixo há opções práticas que transformam sua habilidade de organização em renda, com foco em serviços fáceis de oferecer localmente e online.
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-
-
+<img width="874" height="701" alt="image" src="https://github.com/user-attachments/assets/1c3c4e39-2d07-4416-86c9-0d7815c0e82f" />
 
 Como cada ideia gera receita e exemplos de oferta
 - Organização residencial por hora — cobrar por hora ou por cômodo; oferecer pacote inicial + manutenção mensal.
@@ -306,28 +267,9 @@ Ideias práticas para transformar artesanato e criação em renda
 Abaixo estão 20 ideias organizadas por formato (produto, serviço, ensino, B2B) com exemplos rápidos, canais de venda e um passo inicial prático para começar a monetizar hoje.
 
 Tabela comparativa das ideias mais viáveis
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-|  |  |  |  |  | 
-
+<img width="889" height="662" alt="image" src="https://github.com/user-attachments/assets/3e4c1aae-9320-47bd-99d5-8edb7078859d" />
+<img width="877" height="588" alt="image" src="https://github.com/user-attachments/assets/eb00f6e5-7d2e-4519-9eca-23688036e0e0" />
+<img width="873" height="273" alt="image" src="https://github.com/user-attachments/assets/27649fe2-4a2c-453d-b3c6-0be2262ee956" />
 
 
 Onde vender e por que funciona
